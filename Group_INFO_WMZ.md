@@ -14,6 +14,7 @@ The KISS principle in coding (Keep It Simple, Stupid).
 - **Brief Introduction:** Self-learned coding with Google Search/Google Ai Replies, including Arduino, Google Apps Script, Excel VBA
 - **(individual) Assignment 1:** https://github.com/mcllouie/PolyU-AAE5303-assignment-1-Louie-Man
 - **(individual) Assignment 2:** https://github.com/mcllouie/PolyU-AAE5303-assignment-2-Louie-Man
+- **(individual) Final Qualitative Report:** https://github.com/mcllouie/AAE5303_Final_Qualitative_Report
 
 ### Member 2
 - **Student ID:** 25044023G
@@ -31,12 +32,12 @@ The KISS principle in coding (Keep It Simple, Stupid).
 
 ## Group Projects
 - **(group) Final project:** https://github.com/yourgroup/final-project
-- **VO:** https://github.com/yourgroup/vo
+- **VO:** https://github.com/mcllouie/AAE5303-Group_Project-WMZ-VO
 - **Opensplating:** https://github.com/yourgroup/opensplating
 - **U-net:** https://github.com/yourgroup/u-net
 
 Up to 3 members~
 ---
 
-*Last Updated: [Date]*
+*Last Updated: [31/MAR/2026]*
 
